@@ -1,24 +1,27 @@
-## 📂 Data Selection  
+## Textual Data Selection  
 
 ### 1. HopeEDI Preprocessing  
--Utilizing the English portion of HopeEDI, we processed the data
-  -remove usernames
-  -removes punctuation
-  -replace emojis with description
-  -normalize unicode
-  -remove single-character words
-  -removes the whitespaces
--Ensured row classification
-  -removed any empty or incorrect classifications
-  -20,700 Non_hope and 1945 Hope remained
--Finalized textual portion of data
-  -randomly chose 1945 Non_hope rows to obtain a balanced dataset
-  -Split both 1945 data sets into 3
-  -because of the uneven split, we went down to 647 per classification
-  -647 Non_hope and 647 Hope were combined and labeled per image split.
-  -The final textual data was 3 CSV files containing 1294 rows, with an even split between hope and Non_hope 
 
-## 📂 MultiModal Creation  
+- **Utilizing the English portion of HopeEDI**, we processed the data:  
+  - Removed usernames  
+  - Removed punctuation  
+  - Replaced emojis with text descriptions  
+  - Normalized Unicode  
+  - Removed single-character words  
+  - Removed extra whitespaces  
+
+- **Ensured row classification**:  
+  - Removed empty or incorrect classifications  
+  - Remaining data: **20,700 Non_Hope** and **1,945 Hope**  
+
+- **Finalized textual portion of data**:  
+  - Randomly chose **1,945 Non_Hope rows** to obtain a balanced dataset  
+  - Split both datasets (Hope + Non_Hope) into **3 subsets**  
+  - Due to uneven splitting, we standardized to **647 samples per class**  
+  - Combined **647 Hope** + **647 Non_Hope** and matched them with image splits  
+  - Final dataset: **3 CSV files**, each containing **1,294 rows** with an even split between Hope and Non_Hope  
+
+## MultiModal Creation  
 
 ### 2. image Sourcing  
 - Collected 1,294 copyright-free images online, generated 1,294 Stable Diffusion images, and generated 1,294 Dall-E 3 images.  
@@ -31,7 +34,7 @@
 - Verified no duplicate or corrupted files  
 - Final dataset stored in "Complete_img"
 
-## 🧪 Model Training & Testing  
+## Model Training & Testing  
 
 ### 4. Model Training  
 - Framework used: **[PyTorch / TensorFlow]**  
@@ -56,7 +59,9 @@
   - Precision / Recall / F1-score: **[values]**  
 
 ---
+## Multimodal Hope dataset Citation
 
+## HopeEDI Citation
 Chakravarthi, B. R. (2020). HopeEDI: A Multilingual Hope Speech Detection Dataset for Equality, Diversity, and Inclusion. 
 In *Proceedings of the Third Workshop on Computational Modeling of People’s Opinions, Personality, and Emotion’s in Social Media* (pp. 41–53). 
 Association for Computational Linguistics. https://aclanthology.org/2020.peoples-1.5/
