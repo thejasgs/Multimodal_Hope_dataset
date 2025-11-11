@@ -59,6 +59,9 @@
   - Precision / Recall / F1-score: **[values]**  
 
 ---
+## This dataset falls under a Creative Commons Attribution 4.0 International license
+For more information about this license, please visit: https://creativecommons.org/licenses/by/4.0/
+Proper credit must be given to the creators of the original HopeEDI text dataset when using this multimodal version. This acknowledgment should be included in any derivative publications or shared works.
 ## Multimodal Hope dataset Citation
 Our citation comes here
 ## HopeEDI Citation
