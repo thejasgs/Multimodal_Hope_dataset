@@ -19,7 +19,7 @@
   - Split both datasets (Hope + Non_Hope) into **3 subsets**  
   - Due to uneven splitting, we standardized to **647 samples per class**  
   - Combined **647 Hope** + **647 Non_Hope** and matched them with image splits  
-  - Final dataset: **3 CSV files**, each containing **1,294 rows** with an even split between Hope and Non_Hope  
+  - Final dataset: **3 CSV files**, each containing **1,294 rows** with an even split between Hope and Non_Hope
 
 ## MultiModal Creation  
 
@@ -28,6 +28,7 @@
 - Images correlated with the textual context and classification.
 - Stored the images in 3 folders, segmenting by their type.
 - added file link paths to create CSV files for the 3 splits
+- Handpicked images in folder "Images", Stable Diffusion in folder "Images_SD", DALLE 3 in folder "Images_DE"
 
 ### 3. Dataset Concatenation  
 - Combined multiple image sources into one unified dataset  
