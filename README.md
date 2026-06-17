@@ -1,4 +1,4 @@
-**#Multimodal Dataset Investigation for Hopeless Speech Detection in English**
+#Multimodal Dataset Investigation for Hopeless Speech Detection in English
 
 This repository contains the dataset and code for the paper **"**Multimodal Dataset Investigation for Hopeless Speech Detection in English"**. In AI and Machine Learning for Social Forensics – Innovations in Intelligent Evidence Analysis. Springer Nature, 2026. (Forthcoming, Accepted, In-press).
 
