@@ -1,4 +1,5 @@
 **#Multimodal Dataset Investigation for Hopeless Speech Detection in English**
+
 This repository contains the dataset and code for the paper **"**Multimodal Dataset Investigation for Hopeless Speech Detection in English"**. In AI and Machine Learning for Social Forensics – Innovations in Intelligent Evidence Analysis. Springer Nature, 2026. (Forthcoming, Accepted, In-press).
 
 Dillon Gatlin, Julian Lares-Ibarra, and Thejas G.S., _Multimodal Dataset Investigation for Hopeless Speech Detection in English_. In _AI and Machine Learning for Social Forensics – Innovations in Intelligent Evidence Analysis_. Springer Nature, 2026. (Forthcoming, Accepted, In-press).
