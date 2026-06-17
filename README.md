@@ -1,5 +1,7 @@
-#Multimodal Dataset Investigation for Hopeless Speech Detection in English
-This repository contains the dataset and code for the paper **"**Multimodal Dataset Investigation for Hopeless Speech Detection in English**"
+**#Multimodal Dataset Investigation for Hopeless Speech Detection in English**
+This repository contains the dataset and code for the paper **"**Multimodal Dataset Investigation for Hopeless Speech Detection in English"**. In AI and Machine Learning for Social Forensics – Innovations in Intelligent Evidence Analysis. Springer Nature, 2026. (Forthcoming, Accepted, In-press).
+
+Dillon Gatlin, Julian Lares-Ibarra, and Thejas G.S., _Multimodal Dataset Investigation for Hopeless Speech Detection in English_. In _AI and Machine Learning for Social Forensics – Innovations in Intelligent Evidence Analysis_. Springer Nature, 2026. (Forthcoming, Accepted, In-press).
 ## Textual Data Selection  
 
 ### 1. HopeEDI Preprocessing  
@@ -64,9 +66,9 @@ This repository contains the dataset and code for the paper **"**Multimodal Data
 ---
 ## This dataset falls under a Creative Commons Attribution 4.0 International license
 For more information about this license, please visit: https://creativecommons.org/licenses/by/4.0/
-Proper credit must be given to the creators of the original HopeEDI text dataset when using this multimodal version. This acknowledgment should be included in any derivative publications or shared works.
+Proper credit must be given to the creators of the original HopeEDI text dataset when using this multimodal version. This acknowledgment should be included in any derivative publications or shared works. Please cite the following references.
 ## Multimodal Hope dataset Citation
-Our citation comes here
+Dillon Gatlin, Julian Lares-Ibarra, and Thejas G.S., _Multimodal Dataset Investigation for Hopeless Speech Detection in English_. In _AI and Machine Learning for Social Forensics – Innovations in Intelligent Evidence Analysis_. Springer Nature, 2026. (Forthcoming, Accepted, In-press).
 ## HopeEDI Citation
 Chakravarthi, B. R. (2020). HopeEDI: A Multilingual Hope Speech Detection Dataset for Equality, Diversity, and Inclusion. 
 In *Proceedings of the Third Workshop on Computational Modeling of People’s Opinions, Personality, and Emotion’s in Social Media* (pp. 41–53). 
