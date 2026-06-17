@@ -1,3 +1,5 @@
+#Multimodal Dataset Investigation for Hopeless Speech Detection in English
+This repository contains the dataset and code for the paper **"**Multimodal Dataset Investigation for Hopeless Speech Detection in English**"
 ## Textual Data Selection  
 
 ### 1. HopeEDI Preprocessing  
